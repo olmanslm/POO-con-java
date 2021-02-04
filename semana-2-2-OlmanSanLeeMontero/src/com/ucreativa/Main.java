@@ -6,7 +6,7 @@ package com.ucreativa;
  * @author Olman
  *
  */
-public class main {
+public class Main {
 
 	/**
 	 * @param args
